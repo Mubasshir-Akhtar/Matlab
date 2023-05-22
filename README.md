@@ -3,8 +3,8 @@
 This repository contains MATLAB and Simulink code that I've written.
 
 It contains the simulations for 
-1. [Four Bar Mechanism](https://github.com/Mubasshir-Akhtar/Matlab/edit/main/README.md#four-bar-mechanism)
-2. [Slider Crank Mechanism](https://github.com/Mubasshir-Akhtar/Matlab/edit/main/README.md#slider-crank-mechanism)
+1. [Four Bar Mechanism](https://github.com/Mubasshir-Akhtar/Matlab#four-bar-mechanism)
+2. [Slider Crank Mechanism](https://github.com/Mubasshir-Akhtar/Matlab#slider-crank-mechanism)
 
 
 # Four Bar Mechanism
