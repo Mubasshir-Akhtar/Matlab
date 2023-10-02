@@ -5,7 +5,7 @@ This repository contains MATLAB and Simulink code that I've written.
 It contains the simulations for 
 1. [Four Bar Mechanism](https://github.com/Mubasshir-Akhtar/Matlab#four-bar-mechanism)
 2. [Slider Crank Mechanism](https://github.com/Mubasshir-Akhtar/Matlab#slider-crank-mechanism)
-3. [Spectral Analysis of Stars](https://github.com/Mubasshir-Akhtar/Matlab)
+3. [Spectral Analysis of Stars]((https://github.com/Mubasshir-Akhtar/Matlab#spectral-analysis-of-stars)
 
 
 # Four Bar Mechanism
